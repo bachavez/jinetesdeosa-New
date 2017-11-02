@@ -1,0 +1,25 @@
+{
+  "name": "hotel-jinetes-de-osa",
+  "version": "0.9.0",
+  "description": "Marketing site for Hotel Jinetes De OSA",
+  "author": "Adriann Bracken <adriannbracken214@gmail.com>",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABracken/HotelJinetesDeOsaUpdated.git"
+  },
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "parser": "^0.1.4"
+  },
+  "bugs": {
+    "url": "https://github.com/ABracken/HotelJinetesDeOsaUpdated/issues"
+  },
+  "homepage": "https://github.com/ABracken/HotelJinetesDeOsaUpdated#readme",
+  "license": "ISC"
+}
